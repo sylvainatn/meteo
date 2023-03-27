@@ -1,0 +1,56 @@
+html {
+	background: 100%;
+}
+
+h1 {
+	background-color:#0000ff;
+	position:static;
+	text-align: center;
+	top: 0vh;
+	left: 33vw;
+}
+
+h1:hover {
+	background-color:#ff00ff;
+	text-align:center
+}
+
+.grandeurs-mesurees {
+	position: absolute;
+	top: 15vh;
+	left: 5vw;
+	width: 40ch;
+	height: 15ch;
+	font-size: 20px
+}
+
+.image1 {
+	position: absolute;
+	top: 11ch;
+	left: 130ch;
+}
+
+.image2 {
+	position: absolute;
+	top: 55ch;
+	left: 15ch;
+}
+
+.image3 {
+	position:absolute;
+	top: 55ch;
+	left: 150ch;
+	width: 80px;
+}
+
+.time {
+	position:absolute;
+	top: 50%;
+	left: 40%;
+}
+
+.commentaire {
+	position: absolute;
+	top: 85ch;
+	left: 2ch;
+}
